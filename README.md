@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @ereshidov
-- 📞 Telegram - @newfaceof
-
-<!---
-ereshidov/ereshidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![LeetCode Stats](https://leetcode.card.workers.dev/ereshidov?theme=dark&font=&extension=null)
